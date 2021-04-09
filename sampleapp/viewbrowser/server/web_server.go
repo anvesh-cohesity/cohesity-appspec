@@ -16,7 +16,7 @@ import (
 
   "github.com/cohesity/app-sdk-go/appsdk"
   appModels "github.com/cohesity/app-sdk-go/models"
-  "github.com/cohesity/management-sdk-go/managementsdk"
+  CohesityManagementSdk "github.com/cohesity/management-sdk-go/managementsdk"
   managementModels "github.com/cohesity/management-sdk-go/models"
   "github.com/go-martini/martini"
   "github.com/golang/glog"
